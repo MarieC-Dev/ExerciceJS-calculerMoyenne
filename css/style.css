@@ -1,0 +1,15 @@
+.dispayAverage
+{
+    display: none;
+}
+
+/* Créer une class a ajouter en JS */
+.displayAverage.open
+{
+    display: inline;
+}
+
+h2.open
+{
+    display: block;
+}
